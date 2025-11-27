@@ -20,4 +20,6 @@ you will need to download XAMPP/WAMP (or similar) with PHP and MySQL running loc
 ### Step 3: Run the Application
 * Open your browser and navigate to the student dashboard:http://localhost/university-course-management-system/student_dashboard.php
 
+## Enhanced Entitiy Relationship Diagram 
+<img width="2360" height="1068" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/9fa84ffb-0dbb-4eed-ae42-7d7a9b5cc1fd" />
 
