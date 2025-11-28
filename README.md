@@ -26,12 +26,14 @@ you will need to download XAMPP/WAMP (or similar) with PHP and MySQL running loc
 ## Interfaces
 ### Home page
 <img width="1773" height="524" alt="image" src="https://github.com/user-attachments/assets/a4a11de8-e66b-41f0-82df-1a3d3ee3d855" />
+
 ### Student interface
 <img width="1864" height="555" alt="image" src="https://github.com/user-attachments/assets/3a05a708-65f7-45a2-92af-d2b16ed649bf" />
 <img width="614" height="640" alt="image" src="https://github.com/user-attachments/assets/6c51d7b5-185b-4eb1-883f-fa5f16ece9cf" />
 <img width="901" height="324" alt="image" src="https://github.com/user-attachments/assets/36ef7673-19ac-46ad-830c-aa62ac66c35a" />
 <img width="873" height="854" alt="image" src="https://github.com/user-attachments/assets/48b61fe7-88fb-414c-ba63-24a744f17ed9" />
 <img width="614" height="482" alt="image" src="https://github.com/user-attachments/assets/e0ebb358-5759-4de7-ae3c-e5751627c3d5" />
+
 ### Admin interface
 <img width="1711" height="512" alt="image" src="https://github.com/user-attachments/assets/781efe7e-92d2-43b7-9039-fb95184bbb4d" />
 <img width="1009" height="600" alt="image" src="https://github.com/user-attachments/assets/c456b558-ff36-4057-bc3a-15b51483b37e" />
