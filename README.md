@@ -29,6 +29,7 @@ you will need to download XAMPP/WAMP (or similar) with PHP and MySQL running loc
 
 ### Student interface
 <img width="1864" height="555" alt="image" src="https://github.com/user-attachments/assets/3a05a708-65f7-45a2-92af-d2b16ed649bf" />
+<img width="778" height="830" alt="image" src="https://github.com/user-attachments/assets/d039feaf-f463-424f-9b35-733d01488ac3" />
 <img width="614" height="640" alt="image" src="https://github.com/user-attachments/assets/6c51d7b5-185b-4eb1-883f-fa5f16ece9cf" />
 <img width="901" height="324" alt="image" src="https://github.com/user-attachments/assets/36ef7673-19ac-46ad-830c-aa62ac66c35a" />
 <img width="873" height="854" alt="image" src="https://github.com/user-attachments/assets/48b61fe7-88fb-414c-ba63-24a744f17ed9" />
